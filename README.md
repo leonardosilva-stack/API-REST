@@ -1,4 +1,4 @@
-# Curso: Curso de JavaScript e TypeScript do básico ao avançado [UDEMY]
+# Curso:JavaScript e TypeScript do básico ao avançado [UDEMY]
 # Professor: Luiz Otávio
 
 npx eslint --init
